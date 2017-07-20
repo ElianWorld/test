@@ -1,5 +1,5 @@
 
-public class AplusB问题 {
+public class AplusB脦脢脤芒 {
 	/*
      * param a: The first integer
      * param b: The second integer
@@ -19,3 +19,4 @@ public class AplusB问题 {
         return sum;
     }
 }
+it's a laji!
